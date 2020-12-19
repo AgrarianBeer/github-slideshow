@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I'm committed
+What can I say, I'm gaming
 Use the left arrow to go back!
